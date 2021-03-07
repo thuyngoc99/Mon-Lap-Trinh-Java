@@ -1,0 +1,4 @@
+1, Tran Bao Han, 1999/23/05, 25 Nguyen Van Cu, Nghe An, 0987435617, hangmail.com, 2.5, Java, Cong ty FPT, none, none, none, none, none, none, none
+1, Nguyen Hong A, 1999/23/05, 25 Nguyen Van Cu, Nghe An, 0987435617, a@gmail.com, 2.5, Java, Cong ty FPT, none, none, none, none, none, none, none
+2, Tran Van B, 1999/23/05, 25 Nguyen Van Cu, Nghe An, 0987435617, b@gmail.com, none, none, none, y, y, y, none, none, none, none
+3, Le Thi C, 1999/23/05, 25 Nguyen Van Cu, Nghe An, 0987435617, c@gmail.com, none, none, none, none, none, none, y, y, y, y

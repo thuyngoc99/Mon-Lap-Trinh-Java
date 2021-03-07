@@ -1,0 +1,5 @@
+1, Tran Hong Ha, 1999/23/05, TP.Vinh, Nghe An, 0987435617, ngoc@gmail.com, 2.5, Java, FPT, none, none, none, none, none, none, none
+2, Nguyen Gia Huy, 2000/23/05, 02 Le Duan, Ha Noi, 0987435617, huy@gmail.com, none, none, none, 2/4, Gioi, Kinh Te Quoc Dan, none, none, none, none
+1, Mai Bao An, 1999/25/05, 26 Nguyen Van Cu, Nghe An, 0987435617, an9gmail.com, 3, C#, Viettel, none, none, none, none, none, none, none
+2, Nguyen Dinh Hieu, 200023/05, 02 Le Duan, Ha Noi, 0987435617, yen@gmail.com, none, none, none, 2/4, Gioi, Kinh Te Quoc Dan, none, none, none, none
+3, Le Thanh Dat, 1999/03/23, vinh, vinh, 0983628618, dat@gmail.com, none, none, none, none, none, none, su pham toan, 2, Kinh te Da Nang, 5/7
